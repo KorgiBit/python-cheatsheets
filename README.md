@@ -12,26 +12,29 @@
 
 ## 📚 Темы
 
-- [01. Переменные и типы данных](cheatsheets/01_Переменные_и_типы_данных.ipynb)
-- [02. Ввод и вывод: print(), input(), int()](cheatsheets/02_Ввод_и_вывод_print_input_int.ipynb)
-- [03. Числовые типы и арифметика](cheatsheets/03_Числовые_типы_и_арифметика.ipynb)
-- [04. Строки: методы и форматирование](cheatsheets/04_Строки_методы_и_форматирование.ipynb)
-- [05. Списки: индексация, срезы, методы](cheatsheets/05_Списки_индексация_срезы_методы.ipynb)
-- [06. Кортежи: когда они полезны](cheatsheets/06_Кортежи_когда_они_полезны.ipynb)
-- [07. Словари: ключи, значения, методы](cheatsheets/07_Словари_ключи_значения_методы.ipynb)
-- [08. Множества: операции и применение](cheatsheets/08_Множества_операции_и_применение.ipynb)
-- [09. Файлы: чтение и запись](cheatsheets/09_Файлы_чтение_и_запись.ipynb)
-- [10. Условия: if, else, elif](cheatsheets/10_Условия_if_else_elif.ipynb)
-- [11. Логические операторы и сравнения](cheatsheets/11_Логические_операторы_и_сравнения.ipynb)
-- [12. Циклы: for, while, break, continue](cheatsheets/12_Циклы_for_while_break_continue.ipynb)
-- [13. Функции: def, return, параметры](cheatsheets/13_Функции_def_return_параметры.ipynb)
-- [14. Обработка ошибок: try, except](cheatsheets/14_Обработка_ошибок_try_except.ipynb)
-- [15. Генераторы списков (list comprehensions)](cheatsheets/15_Генераторы_списков_list_comprehensions.ipynb)
-- [16. Импорт модулей и библиотек](cheatsheets/16_Импорт_модулей_и_библиотек.ipynb)
-- [17. Работа с датой и временем](cheatsheets/17_Работа_с_датой_и_временем.ipynb)
-- [18. Основы ООП: классы и объекты](cheatsheets/18_Основы_ООП_классы_и_объекты.ipynb)
-- [19. Итераторы и генераторы](cheatsheets/19_Итераторы_и_генераторы.ipynb)
-- [20. Работа с файлами CSV и JSON](cheatsheets/20_Работа_с_файлами_CSV_и_JSON.ipynb)
+| Тема | Открыть в Colab |
+|---|:---:|
+| [01. Переменные и типы данных](cheatsheets/01_Переменные_и_типы_данных.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/01_Переменные_и_типы_данных.ipynb) |
+| [02. Ввод и вывод: print(), input(), int()](cheatsheets/02_Ввод_и_вывод_print_input_int.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/02_Ввод_и_вывод_print_input_int.ipynb) |
+| [03. Числовые типы и арифметика](cheatsheets/03_Числовые_типы_и_арифметика.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/03_Числовые_типы_и_арифметика.ipynb) |
+| [04. Строки: методы и форматирование](cheatsheets/04_Строки_методы_и_форматирование.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/04_Строки_методы_и_форматирование.ipynb) |
+| [05. Списки: индексация, срезы, методы](cheatsheets/05_Списки_индексация_срезы_методы.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/05_Списки_индексация_срезы_методы.ipynb) |
+| [06. Кортежи: когда они полезны](cheatsheets/06_Кортежи_когда_они_полезны.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/06_Кортежи_когда_они_полезны.ipynb) |
+| [07. Словари: ключи, значения, методы](cheatsheets/07_Словари_ключи_значения_методы.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/07_Словари_ключи_значения_методы.ipynb) |
+| [08. Множества: операции и применение](cheatsheets/08_Множества_операции_и_применение.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/08_Множества_операции_и_применение.ipynb) |
+| [09. Файлы: чтение и запись](cheatsheets/09_Файлы_чтение_и_запись.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/09_Файлы_чтение_и_запись.ipynb) |
+| [10. Условия: if, else, elif](cheatsheets/10_Условия_if_else_elif.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/10_Условия_if_else_elif.ipynb) |
+| [11. Логические операторы и сравнения](cheatsheets/11_Логические_операторы_и_сравнения.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/11_Логические_операторы_и_сравнения.ipynb) |
+| [12. Циклы: for, while, break, continue](cheatsheets/12_Циклы_for_while_break_continue.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/12_Циклы_for_while_break_continue.ipynb) |
+| [13. Функции: def, return, параметры](cheatsheets/13_Функции_def_return_параметры.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/13_Функции_def_return_параметры.ipynb) |
+| [14. Обработка ошибок: try, except](cheatsheets/14_Обработка_ошибок_try_except.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/14_Обработка_ошибок_try_except.ipynb) |
+| [15. Генераторы списков (list comprehensions)](cheatsheets/15_Генераторы_списков_list_comprehensions.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/15_Генераторы_списков_list_comprehensions.ipynb) |
+| [16. Импорт модулей и библиотек](cheatsheets/16_Импорт_модулей_и_библиотек.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/16_Импорт_модулей_и_библиотек.ipynb) |
+| [17. Работа с датой и временем](cheatsheets/17_Работа_с_датой_и_временем.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/17_Работа_с_датой_и_временем.ipynb) |
+| [18. Основы ООП: классы и объекты](cheatsheets/18_Основы_ООП_классы_и_объекты.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/18_Основы_ООП_классы_и_объекты.ipynb) |
+| [19. Итераторы и генераторы](cheatsheets/19_Итераторы_и_генераторы.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/19_Итераторы_и_генераторы.ipynb) |
+| [20. Работа с файлами CSV и JSON](cheatsheets/20_Работа_с_файлами_CSV_и_JSON.ipynb) | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KorgiBit/python-cheatsheets/blob/main/cheatsheets/20_Работа_с_файлами_CSV_и_JSON.ipynb) |
+
 
 ---
 
